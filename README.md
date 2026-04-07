@@ -1,2 +1,6 @@
-# Fractals-Viewer-3D
-This is a explorator for 3D fractals made with python and raymarching
+# KeyBinds
+- Us the **arrows** to change the direction of the camera 
+- Use **Z**,**Q**,**S** and **D** to move
+- Use **Space** to go up and **LControl** to go down
+- Press **LShift** to go faster
+- Play with the sliders to change some variables
